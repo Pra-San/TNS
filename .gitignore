@@ -1,0 +1,9 @@
+/.idea/
+/scheduled_populator/scraper/robots_txt_files/
+/dependencies/
+/env.py
+/local/
+*.db
+*.pkl
+/scheduled_populator/logs/
+/backend/target/
